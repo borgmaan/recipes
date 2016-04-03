@@ -1,3 +1,3 @@
-# Wickham family recipes
+# Borgman family recipes
 
 Choose a category on the left to get started

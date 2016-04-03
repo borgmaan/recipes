@@ -142,6 +142,7 @@ find_category <- function(cat_id) {
 
 load_recipes <- function() {
   paths <- dir("recipes", recursive = TRUE)
+  paths <- paths[grep('Icon', paths, invert = T)]
   recipes <- paths %>% map_chr(~ readr::read_file(file.path("recipes", .)))
   
   names <- recipes %>% 

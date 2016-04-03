@@ -1,18 +1,13 @@
 category_id,category,path
-1,"Entrees, Salads & Soups",entrees
-2,Cakes,cakes
-3,Desserts,desserts
-4,Breads & Loaves,breads
-5,Main - Beef,main-beef
-6,Main - Chicken,main-chicken
-7,Main - Fish,main-fish
-8,Main - Lamb,main-lamb
-9,Main - Mince,main-mince
-10,Main - Pork & Sausages,main-pork
-11,Main - Vegetarian,main-vegetarian
-12,Miscellaneous,misc
-13,Muffins & Scones,muffins-scones
-14,"Sauces, Jams, Toppings & Spreads",sauces
-15,Sweets,sweets
-16,Biscuits,biscuits
-17,Slices,slices
+1,"American",American
+2,Breads,Breads
+3,Chinese,Chinese
+4,Greek,Greek
+5,Indian,Indian
+6,Italian,Italian
+7,Japanese,Japanese
+8,Mexican,Mexican
+9,Salads,Salads
+10,Snacks,Snacks
+11,Soups,Soups
+12,Thai,Thai
