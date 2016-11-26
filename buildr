@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+rm -r www/
+R -e "devtools::install()"
+R -e "recipes::write_site()"
+
+

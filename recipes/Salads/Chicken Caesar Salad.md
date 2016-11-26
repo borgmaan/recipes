@@ -7,15 +7,19 @@
 * Cesar dressing (See below for homemade)
 
 ----------
+
+
 Cook or grill chicken for approximately 4 minutes per side or until center comes to 165 degrees
 
 When breasts have cooled slightly, cut into thin slices
 
 Toss lettuce, cheese, chicken, croutons, and dressing in a bowl and serve
 
+
 ----------
 
-## Cesar Dressing ##
+
+## Cesar Dressing
 
  * 1 garlic clove
  * 1/2 tsp anchovy paste

@@ -11,7 +11,7 @@ recipes <- src_sqlite("data-raw/recipes.sqlite3") %>%
 categories <- read_csv("data-raw/categories.csv")
 
 recipes <- recipes %>% 
-  replace_na(list(category_id = 12)) %>%
+  # replace_na(list(category_id = 12)) %>%
   left_join(categories, by = "category_id") %>% 
   mutate(
     updated_on = parse_datetime(updated_on),

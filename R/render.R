@@ -5,8 +5,6 @@
 write_site <- function(path = "www") {
   mkdir(path)
 
-  copy_static("orchid.gif", path)
-  copy_static("recipes.css", path)
   write_index(path)
   
   recipes <- load_recipes()
